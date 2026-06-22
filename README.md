@@ -146,11 +146,8 @@ The fine-tuned model underperformed the baseline by 31 percentage points. That g
 
 ### Confusion matrix (fine-tuned model)
 
-|  | Predicted: analysis | Predicted: hot_take | Predicted: reaction |
-|--|---------------------|---------------------|---------------------|
-| **True: analysis** | 10 | 0 | 0 |
-| **True: hot_take** | 8 | 3 | 0 |
-| **True: reaction** | 1 | 1 | 9 |
+<img width="1050" height="750" alt="confusion_matrix" src="https://github.com/user-attachments/assets/823e86d2-01c3-4d84-abe2-93b216f561d4" />
+
 
 ### Three wrong predictions analyzed
 
